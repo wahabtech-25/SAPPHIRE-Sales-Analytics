@@ -33,6 +33,8 @@ Data aggregation, exploratory data analysis (EDA), correlation analysis, quantil
 
 ## Project Files
 - `SAPPHIRE_Sales_Analytics.ipynb` — notebook containing analysis and visualizations.
+- `Images.zip` —  contains visualizations.
+- `Sapphire.zip` — contains dataset from kaggle.
 
 ## Notes
 The 2026 data covers January through September, so comparisons with complete calendar years should be interpreted carefully.
